@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="appSysManage"
+  id="myeclipse.1571884138432"
+  context-root="/appSysManage"
+  j2ee-spec="6.0"
+  archive="appSysManage.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
